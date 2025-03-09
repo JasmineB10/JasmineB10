@@ -5,7 +5,7 @@
 - 🌱 What I am currently focussed on ? I’m currently learning Web-dev
 - 💞️ My favorite part? I’m looking forward to collaborate for hackathons and interesting projects.
 - 🌱 My strength? I'm always open to learning new technologies for different projects.
-- 📫 Where to find me? Drop an email at bajwajas10@gmail.com
+- 📫 Where to find me? Drop an email at jasmineofficial46@gmail.com
 
 
 ## 🛠 Technologies I Know  
