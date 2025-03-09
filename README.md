@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Jasmine
-- 👀 I’m interested in Web development, Artificial intelligence
-- 🌱 I’m currently learning Webdev
-- 💞️ I’m looking forward to collaborate on hackathons and interesting projects.
-- 🌱 I'm always open to learning new technologies for different projects.
-- 📫 Reach me out at bajwajas10@gmail.com
+- 👀 My Interests? Web development, Artificial intelligence.
+- 📫 My start? Java was my first programming language that I studied in 9th standard.
+- 📫 Where am I right now? I am pursuing my Btech at NIT Jalandhar
+- 🌱 What I am currently focussed on ? I’m currently learning Web-dev
+- 💞️ My favorite part? I’m looking forward to collaborate for hackathons and interesting projects.
+- 🌱 My strength? I'm always open to learning new technologies for different projects.
+- 📫 Where to find me? Drop an email at bajwajas10@gmail.com
 
 
 ## 🛠 Technologies I Know  
